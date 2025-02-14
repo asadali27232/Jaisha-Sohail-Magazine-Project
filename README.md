@@ -22,8 +22,8 @@ version: 23.8.0
 1. **Clone the repository (if applicable):**
 
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/asadali27232/Jaisha-Sohail-Magazine-Project.git
+    cd Jaisha-Sohail-Magazine-Project
     ```
 
 2. **Start the Next.js application:**
@@ -31,13 +31,7 @@ version: 23.8.0
     ```bash
     cd magazine-frontend
     npm install
-     npm run dev
-    ```
-
-    or
-
-    ```bash
-    yarn dev
+    npm run dev
     ```
 
     This will start the Next.js application on `http://localhost:3000`.
